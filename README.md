@@ -7,3 +7,5 @@ I'm a BS Computer Science student at FAST University, currently learning the fou
 🔹 Always eager to learn and grow<br>
 
 “Every expert was once a beginner.”
+
+📫 Connect with me on LinkedIn (https://www.linkedin.com/in/muhammadhaseeb997)
