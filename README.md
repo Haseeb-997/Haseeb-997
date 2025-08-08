@@ -1,4 +1,4 @@
-👋 Hi, I'm Muhammad Haseeb
+👋 Hi, I'm Muhammad Haseeb.<br>
 I'm a BS Computer Science student, currently learning the foundations of programming with C++. I also have basic knowledge of HTML and CSS for front-end web development. This GitHub is where I share my practice codes, mini-projects, and learning journey.
 
 🔹 Learning C++ (core programming + problem-solving)<br>
