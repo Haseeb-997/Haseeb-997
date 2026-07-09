@@ -105,8 +105,8 @@ A clone of game build in C++ focused on applying programming concepts and buildi
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
-<img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/muhammadhaseeb997/)"/>
+<a href="https://www.linkedin.com/in/muhammadhaseeb997/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
